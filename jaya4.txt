@@ -4,3 +4,5 @@ This is new file
 Editing the file to make the changes.
 This is last commit.
 Changes made here newly.
+Newly made change by jaya.
+merged file.
